@@ -20,7 +20,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: What I Provide for My Clients
-    subtitle: Section subtitle here
+    subtitle: ''
     items:
       - type: Card
         title: First Card Title
