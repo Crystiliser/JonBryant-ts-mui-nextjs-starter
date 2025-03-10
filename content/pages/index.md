@@ -19,7 +19,7 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: What I Provide for My Clients
     subtitle: Section subtitle here
     items:
       - type: Card
