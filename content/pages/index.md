@@ -5,10 +5,8 @@ sections:
   - type: HeroSection
     title: Hello! I'm Jon Bryant
     subtitle: I'm a Web Developer.
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: |
+      Something something something
     actions:
       - type: Button
         label: Start Building
