@@ -9,7 +9,7 @@ sections:
       Something something something
     actions:
       - type: Button
-        label: Start Building
+        label: Get Resume
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
